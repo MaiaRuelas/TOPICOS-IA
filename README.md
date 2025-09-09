@@ -1,8 +1,9 @@
 # 🤖 Tópicos de Inteligencia Artificial
 
-Este repositorio contiene **prácticas, tareas y proyectos** de la materia *Tópicos de Inteligencia Artificial* 
-Robles Zamora Anette Leticia
-Ruelas Gutierrez Maia Paulina
+Este repositorio contiene **prácticas, tareas y proyectos** de la materia *Tópicos de Inteligencia Artificial*.
+
+Robles Zamora Anette Leticia.
+Ruelas Gutierrez Maia Paulina.
 Aquí se encuentran los trabajos realizados y proyectos de la materia.
 
 ---
