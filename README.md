@@ -13,6 +13,7 @@ Ruelas Gutierrez Maia Paulina.
 
 ## 📂 Contenido del Repositorio
 - 📘 **INVESTIGACION** → IA y su impacto en el ambiente.
+- 📈 **RECOCIDO SIMULADO** → Método de Recocido simulado 
 - 🔢 **SISTEMA DE DETECCION** → Proyecto de deteccion de placas vehiculares.
 - 🧠 **OPTIMIZACION DE RIEGO** → Proyecto optimizacion de riego con enjambre de particulas.
 
